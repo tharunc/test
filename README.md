@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/muthuannamalai12/muthuannamalai12/master/assets/hello.gif" width="500" height="320"  /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/tharunc/tharunc/master/GitHUb/hello.gif" width="500" height="320"  /> </p>
 <h1 align="center">Hi 👋, I'm Muthu Annamalai</h1>
 <!--
 **muthuannamalai12/muthuannamalai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
