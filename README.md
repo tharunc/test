@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/tharunc/test/master/GitHUb/fe09bb80ae4a0e98eb5cba60234faee0.gif" width="500" height="320"  /> </p>
-<h1 align="center">Hi 👋, I'm Muthu Annamalai</h1>
+<h1 align="center">Hello 👋, This is Tharun</h1>
 <!--
 **muthuannamalai12/muthuannamalai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
